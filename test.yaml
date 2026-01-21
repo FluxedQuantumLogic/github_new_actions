@@ -1,0 +1,47 @@
+name: Meet
+age: 30
+city: 'New York'
+occupation: Engineer
+hobbies:
+    - hiking
+    - reading
+    - coding
+languages:
+    - English
+    - Spanish
+    - French
+    - parsi
+married: true
+children:
+    -
+        name: Anna
+        age: 5
+    -
+        name: Ben
+        age: 3
+pets: null
+favorite_colors:
+    primary: blue
+    secondary: green
+address:
+    street: '123 Main St'
+    zip: 10001
+    country: USA
+phone_numbers:
+    -
+        type: home
+        number: 555-1234
+    -
+        type: work
+        number: 555-5678
+emergency_contact:
+    name: Sarah
+    relation: sister
+    phone: 555-8765
+social_media:
+    twitter: f@renish
+    linkedin: renish-profile
+education:
+    degree: 'B.Sc. in Computer Science'
+    university: NYU
+    graduation_year: 2015
